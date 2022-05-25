@@ -6,5 +6,5 @@ https://github.com/MajicDesigns/MD_MAX72XX<br>
 <br>
 # How to use 
 Flash Your uno with provided code<br>
-Build or use the release binary<br>
+Build or use the release binary, it should autodetect the uno COM port<br>
 add -api 573 to your Start.bat<br>
